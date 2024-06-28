@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hello, I'm Devansh Patil! 👋
 
-<!--
-**devanshh18/devanshh18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am currently pursuing my BCA from GLS University in Ahmedabad, Gujarat. I am passionate about web development and Data Structures and Algorithms (DSA). My goal is to master these skills and build a great career in the IT industry.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on improving my web development skills.
+- 🌱 I’m currently learning advanced JavaScript and exploring open source.
+- 👯 I’m looking to collaborate on open source projects.
+- 💬 Ask me about web development, DSA, or anything tech-related.
+- 📫 How to reach me: devanshpatil2202@gmail.com
+
+## Skills
+
+- **Languages**: HTML, CSS, JavaScript, Java
+- **Frameworks/Libraries**: React, Node.js
+- **Tools**: Git, GitHub, VS Code
+- **Databases**: MySQL, MongoDB
+
+## Contact
+
+Feel free to reach out to me for any queries or collaboration opportunities!
+
+- **Email**: devanshpatil2202@gmail.com
+- **GitHub**: https://github.com/devanshh18
+
+---
+
+*Let's connect and build something amazing together!*
