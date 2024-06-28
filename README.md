@@ -22,6 +22,7 @@ I am currently pursuing my BCA from GLS University in Ahmedabad, Gujarat. I am p
 Feel free to reach out to me for any queries or collaboration opportunities!
 
 - **Email**: devanshpatil2202@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/devansh-patil18
 - **GitHub**: https://github.com/devanshh18
 
 ---
