@@ -23,13 +23,12 @@ I'm passionate about solving real-world problems using data and continuously lea
 
 ### 📚 Libraries & Tools:
 - **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**, **Scikit-learn**  
-- **Power BI**, **Tableau** (Basic)  
+- **Power BI**, **Tableau**
 - **Git**, GitHub, Jupyter Notebook, VS Code
 
 ### 🌐 Web Development:
 - HTML, CSS, JavaScript  
-- Node.js, Express.js, React.js (for past academic projects)
-
+- Node.js, Express.js, React.js
 ---
 
 ## 📂 Notable Projects
